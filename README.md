@@ -1,4 +1,4 @@
-# Web3 Developer Roadmap# Web3-Road-Map
+# Web3-Road-Map
 
 
 
@@ -6,7 +6,6 @@ Your no-BS guide to becoming a Web3 developer. I've spent hours researching and 
 
 
 
-## What This IsYour no-BS guide to becoming a Web3 developer. I've spent hours researching and curating the best resources so you don't have to wade through garbage content.
 
 
 
@@ -14,11 +13,11 @@ A visual roadmap (Excalidraw diagram) that shows you exactly what to learn and i
 
 
 
-**[📊 Open Visual Roadmap](https://excalidraw.com/#json=U8y1RGjo_ONJB96VgrOql,hRKEgq7z6k3FK-6NUivERQ)**## What This Is
+**[📊 Open Visual Roadmap](https://excalidraw.com/#json=U8y1RGjo_ONJB96VgrOql,hRKEgq7z6k3FK-6NUivERQ)**
 
 
 
-## Why This Exists## Introduction
+## Introduction
 
 
 
@@ -78,7 +77,11 @@ This roadmap fixes that. It's structured, up-to-date, and actually explains *why
 
 
 
-### 4. Frontend Integration### 1. **Blockchain Fundamentals** (Don't skip this)## Contribution Guidelines
+### 4. Frontend Integration
+
+### 1. **Blockchain Fundamentals** (Don't skip this)
+
+## Contribution Guidelines
 
 - Web3.js vs Ethers.js (use Ethers)
 
